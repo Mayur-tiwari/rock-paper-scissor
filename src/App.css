@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  margin-top: 150px;
+
+
+}
+body{
+  background-image: url(https://www.shutterstock.com/image-vector/cartoon-game-background-260nw-303257369.jpg);
+  background-size: 100vw 110vh;
+  opacity: 5;
+
+}
+.game-p{
+  font-size: 30px;
+  font-weight: 600;
+}
+.game-input{
+  padding: 5px 30px 5px 30px;
+  border: none;
+  border-radius: 4px;
+  outline: none;
+}
+.btn{
+  margin-left: 10px;
+  padding: 4px 20px 4px 20px;
+  border: none;
+  border-radius: 3px;
+
+
+}
+
+
